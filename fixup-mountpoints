@@ -1145,33 +1145,6 @@ case "$DEVICE" in
             -e 's block/platform/sdio_emmc/by-name/userdata mmcblk0p27 ' \
             "$@"
         ;;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     *)
         cat <<EOF
 
